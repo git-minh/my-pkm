@@ -1940,13 +1940,12 @@ You have been introduced to the following team members:
 |---|---|---|
 |Jane Doe|Project Manager|Jane manages the team by focusing on the scope to be delivered, planning the work out primarily herself and assigning work to individuals based on her preference|
 |John Smith|Product Manager|John likes to conduct extensive market research and product planning upfront; he is detached from the developers by process, department, and facility boundaries|
-|Jim Brady (USA)  <br>Nathan Connor (USA)  <br>Venkat Ragu (India)  <br>Ali Khan (India)|Developers (2 Onshore, 2 Offshore)|The offshore developers are contractors who have more senior technical expertise; they are individually assigned the more complex project deliverables by the Project Manager. The less complex deliverables are individually assigned to the onshore developers by the Project Manager. There is no process to transfer knowledge from the offshore contractors to the onshore developers. There’s a lack of consistent coding standards.|
+|Jim Brady (USA) ,Nathan Connor (USA) ,Venkat Ragu (India) ,Ali Khan (India)|Developers (2 Onshore, 2 Offshore)|The offshore developers are contractors who have more senior technical expertise; they are individually assigned the more complex project deliverables by the Project Manager. The less complex deliverables are individually assigned to the onshore developers by the Project Manager. There is no process to transfer knowledge from the offshore contractors to the onshore developers. There’s a lack of consistent coding standards.|
 |Kathy Qualls|Tester|Kathy steps into the process lifecycle once the code has been developed thoroughly. She likes to go through testing and provide full feedback to the Project Manager once she completes her testing cycle|
 |Jerry Holden|Business Analyst|Jerry conducts upfront business analysis and product definition; requirements are detailed and frozen early on so a detailed project plan can be followed|
 |James Cowx|UX Designer|James builds out UX based on specifications and requirements in the Project Plan created by the Project Manager and Business Analyst. Customer feedback is received late, in market testing and after product launch.|
 |Holly Vogt|Subject Matter Expert|Holly prefers one-on-one interviews and calls with the Project Manager and Business Analyst to provide expert opinion and guidance.|
 
-  
 
 ### Additional Details
 
@@ -2053,25 +2052,25 @@ You will need to submit a zipped folder that includes both presentations. Submit
 
 |Criteria|Submission Requirements|
 |---|---|
-|Identify the characteristics of Agile.|The Agile Foundations presentation makes an effective case for adopting the Agile framework:<br><br>- The Agile framework is described accurately<br>- The Agile Manifesto is described and at least two reasons are given for following the Agile Manifesto.<br>- The differences between Waterfall and Agile are listed.<br><br>The presentation contains no more than 20 slides.|
-|Apply the Agile framework to facilitate value-driven delivery at WorldVisitz.|The Agile Foundations presentation makes a business case for using Agile at WorldVisitz by:<br><br>- including specific examples of why Agile would be more effective for improving application delivery at WorldVisitz than using Waterfall<br>- incorporating at least two Agile principles|
-|Apply the characteristics of Agile to the WorldVisitz scenario and propose the appropriate Agile framework.|The Agile Foundations presentation describes the key features of all three frameworks and the differences between them.<br><br>A specific framework is recommended for WorldVIsitz. The recommendation:<br><br>- identifies and describes at least three specific business challenges is WorldVisitz is facing<br>- explains how the specific Agile framework can be used to solve the identified problems|
+|Identify the characteristics of Agile.|The Agile Foundations presentation makes an effective case for adopting the Agile framework:- The Agile framework is described accurately- The Agile Manifesto is described and at least two reasons are given for following the Agile Manifesto.- The differences between Waterfall and Agile are listed.The presentation contains no more than 20 slides.|
+|Apply the Agile framework to facilitate value-driven delivery at WorldVisitz.|The Agile Foundations presentation makes a business case for using Agile at WorldVisitz by:- including specific examples of why Agile would be more effective for improving application delivery at WorldVisitz than using Waterfall- incorporating at least two Agile principles|
+|Apply the characteristics of Agile to the WorldVisitz scenario and propose the appropriate Agile framework.|The Agile Foundations presentation describes the key features of all three frameworks and the differences between them.A specific framework is recommended for WorldVIsitz. The recommendation:- identifies and describes at least three specific business challenges is WorldVisitz is facing- explains how the specific Agile framework can be used to solve the identified problems|
 
 ## Agile Practices
 
 |Criteria|Submission Requirements|
 |---|---|
-|Apply appropriate Agile practices to recommend a ceremony structure for the specific Agile framework being used.|A ceremony schedule with an agenda for each ceremony is included in the Agile Onboarding presentation.<br><br>Ceremonies are consistent with best practices for the recommended framework in terms of agenda, frequency, duration and purpose.|
-|Apply appropriate Agile practices to recommend Information Radiators for the specific Agile framework being used.|At least two Information Radiators are identified.<br><br>All Information Radiators include a visual example and use appropriate metrics to improve communication both across the team, as well as with other stakeholders.<br><br>For value proposition of each Information Radiator, at least one benefit is covered.|
+|Apply appropriate Agile practices to recommend a ceremony structure for the specific Agile framework being used.|A ceremony schedule with an agenda for each ceremony is included in the Agile Onboarding presentation.Ceremonies are consistent with best practices for the recommended framework in terms of agenda, frequency, duration and purpose.|
+|Apply appropriate Agile practices to recommend Information Radiators for the specific Agile framework being used.|At least two Information Radiators are identified.All Information Radiators include a visual example and use appropriate metrics to improve communication both across the team, as well as with other stakeholders.For value proposition of each Information Radiator, at least one benefit is covered.|
 
 ## High Performing Agile Teams
 
 |Criteria|Submission Requirements|
 |---|---|
-|Build and evolve a high-performing Agile team by explaining Agile benefits to the team.|The Agile Onboarding presentation summarizes the benefits of Agile for WorldVIsitz.<br><br>The presentation contains no more than 20 slides.|
+|Build and evolve a high-performing Agile team by explaining Agile benefits to the team.|The Agile Onboarding presentation summarizes the benefits of Agile for WorldVIsitz.The presentation contains no more than 20 slides.|
 |Build and evolve a high-performing Agile team by identifying team training needs.|A minimum of 5 skill gaps, current weaknesses and antipatterns are identified for the team in the "Personal Notes" section of the "Agile Onboarding" presentation.|
-|Build and evolve a high-performing Agile team by developing a team training plan.|The "Personal Notes" section of the "Agile Onboarding" presentation includes a recommended training and coaching plan.<br><br>The training plan addresses the identified skill gaps, weaknesses and anti-patterns using whole Team Coaching and/or one-on-one coaching.|
-|Differentiate between team roles and responsibilities of a typical Agile team and assign team members to an appropriate role.|The Agile Onboarding presentation includes a list of all necessary roles based on the recommended framework.<br><br>All team members are assigned to a role that uses each team member's skill set (including current title and soft skills).<br><br>Scrum, Kanban and XP standards are followed.|
+|Build and evolve a high-performing Agile team by developing a team training plan.|The "Personal Notes" section of the "Agile Onboarding" presentation includes a recommended training and coaching plan.The training plan addresses the identified skill gaps, weaknesses and anti-patterns using whole Team Coaching and/or one-on-one coaching.|
+|Differentiate between team roles and responsibilities of a typical Agile team and assign team members to an appropriate role.|The Agile Onboarding presentation includes a list of all necessary roles based on the recommended framework.All team members are assigned to a role that uses each team member's skill set (including current title and soft skills).Scrum, Kanban and XP standards are followed.|
 
 ### Suggestions to Make Your Project Stand Out
 
